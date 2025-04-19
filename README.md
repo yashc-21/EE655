@@ -14,15 +14,12 @@ pip install -r requirements.txt
 
 ### Trained Models
 
-We provided the trained checkpoints in [Google Drive](https://drive.google.com/drive/folders/1zTIHZDp0SUE-cuEvmPXj6vHd62cZLykg). One can download them and save to the directory `./weights/Model1`.
-
 Updated trained model can be found in [Google Drive](https://drive.google.com/drive/folders/1mUIn_HdGMKDkcyYuaNocqU6qxaWiElKZ). One can download them and save to the directory `./weights/Model2`.
 
 Moreover, the other models (pretrained GPEN, Real-ESRGAN and RetinaFace) we need for training and testing are also provided in [Google Drive](https://drive.google.com/drive/folders/1UyduarmLBkZ38NCRQSiuJSjrtPqWQXiX?usp=drive_link). One can download them and save to the directory `./weights`.
 
 ### Preparing Dataset
 
-- Since we used tensoflow as our framework, we prepared our training data in the format of .tfrecord as [Google Drive](https://drive.google.com/drive/folders/1NGPghw74He0YF5ELNZOXGLwysFQL6UAQ) . One can download them and save to the directory `./datasets`.
 - Updated Preprocessed triaining data in the format of .tfrecord can be found in [Google Drive](https://drive.google.com/drive/folders/1owEhKteloJMWkBYj1MyBycKPGRh0AeSX) . One can download them and save to the directory `./datasets`.
 
 - If you want to prepare the training data yourself, you can use the generate_tfrecord.py and change the parameters.
