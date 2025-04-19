@@ -2,7 +2,7 @@
 
 <a href="https://arxiv.org/pdf/2309.08113.pdf"><img src="https://img.shields.io/badge/arXiv-2309.08113-b31b1b.svg" height=22.5></a>
 
-## Getting Started- EE655_Project
+## Getting Started- EE655 Project
 
 ### Environment Setup
 
